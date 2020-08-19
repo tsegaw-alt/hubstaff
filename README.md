@@ -1,7 +1,7 @@
 # Hubstaff's Frontend Challenge
-The goal of this exercise is to understand and assess candidate's frontend development skills. 
+The goal of this exercise is to assess candidates' frontend development skills. 
 
-As you go through the pair programming session, it's helpful to share what you're thinking as it helps us understand your strategy and makes it easier for us to provide hints if/when necessary.
+As you go through the pair programming session, it's helpful to share what you're thinking as it helps us understand your strategy and makes it easier to provide hints if/when necessary.
 
 There are multiple correct ways to implement a solution for this challenge. Done is better than perfect.
 
