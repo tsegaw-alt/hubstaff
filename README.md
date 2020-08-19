@@ -34,7 +34,7 @@ Check the project running on localhost:
 ## Project Description
 At Hubstaff, we're building a time tracking product. One of the features we need to implement is allowing **Organization Admins** to check information regarding the **Members** of their teams. 
 
-![Members Screenshot](./src/assets/members-screen.png)
+![Members Screenshot](./src/assets/img/members-screen.png)
 
 The challenge proposed is to implement the **Members** tab just like you see it on the image above. Feel free to add the **Invites** tab as disabled, so it can't be navigated to.
 
