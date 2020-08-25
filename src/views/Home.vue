@@ -6,16 +6,13 @@
 </template>
 
 <script>
-
 export default {
   name: 'Home'
 }
 </script>
 
 <style lang="scss">
-// @import "../scss/variables.scss";
-
-// h4 {
-//   color: blue;
-// }
+.home h4 {
+  text-align: center;
+}
 </style>
