@@ -10,9 +10,3 @@ export default {
   name: 'Home'
 }
 </script>
-
-<style lang="scss">
-.home h4 {
-  text-align: center;
-}
-</style>
