@@ -38,7 +38,7 @@ At Hubstaff, we're building a time tracking product. One of the features we need
 The challenge proposed is to implement the **Members** tab just like you see it on the image above. Feel free to add the **Invites** tab as disabled, so it can't be navigated to.
 
 The data for the **Members** belonging to this **Organization** should be fetched from the following url address:
-[https://run.mocky.io/v3/e0f20e47-bbb9-4df9-9c7f-538eee40b671](https://run.mocky.io/v3/e0f20e47-bbb9-4df9-9c7f-538eee40b671)
+[https://run.mocky.io/v3/34234632-e36c-450d-a0a5-63249d1fa3ad](https://run.mocky.io/v3/34234632-e36c-450d-a0a5-63249d1fa3ad)
 
 Here's what the response should look like:
 ```
@@ -46,6 +46,7 @@ Here's what the response should look like:
   "count": 3,
   "members": [
     {
+      "id": 1,
       "name": "Jared Brown",
       "role": "Owner",
       "projects": 8,
@@ -57,6 +58,7 @@ Here's what the response should look like:
       "time_tracking": "enabled"
     },
     {
+      "id": 2,
       "name": "Adrian Goia",
       "role": "Viewer",
       "projects": 5,
@@ -68,6 +70,7 @@ Here's what the response should look like:
       "time_tracking": "enabled"
     },
     {
+      "id": 3,
       "name": "Cody Rogers",
       "role": "Viewer",
       "projects": 8,
@@ -86,7 +89,9 @@ Here's what the response should look like:
 **What we're expecting:**
 - UI matching the image above
 - Search functionality (*Search Members* by name)
-- Filtering (*ROLE* and *TIME TRACKING* fields)
+- Filtering
+  - *ROLE* field options: All | Owner | Viewer
+  - *TIME TRACKING* field options: All | Enabled | Disabled
 - Unit tests
 
 **What we're NOT expecting:**
