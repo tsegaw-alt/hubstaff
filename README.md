@@ -90,8 +90,8 @@ Here's what the response should look like:
 - UI matching the image above
 - Search functionality (*Search Members* by name)
 - Filtering
-  - *ROLE* field options: All | Owner | Viewer
-  - *TIME TRACKING* field options: All | Enabled | Disabled
+  - *ROLE* field options: All Roles | Owner | Viewer
+  - *TIME TRACKING* field options: All Time Tracking | Enabled | Disabled
 - Unit tests
 
 **What we're NOT expecting:**
@@ -109,7 +109,7 @@ We've configured the project using the following tech stack:
 Please use these technologies for the challenge. Where we don't specify any tool (ex: fetching external resources) feel free to use what you're most comfortable with. 
 
 ## Submission
-Please clone the repository and submit a Pull Request with your proposed solution. Make sure to request review of the following github users:
+Please clone the repository and create a private repository on your own account. Then, create a new branch and submit a Pull Request with your proposed solution. Make sure to add and request review on the PR of the following github users:
 - @miguelcdpmarques
 - @stafie
 - @jbrowning
