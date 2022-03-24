@@ -110,9 +110,9 @@ Please use these technologies for the challenge. Where we don't specify any tool
 
 ## Submission
 Please clone the repository and create a private repository on your own account. Then, create a new branch and submit a Pull Request with your proposed solution. Make sure to add and request review on the PR of the following github users:
-- @miguelcdpmarques
-- @stafie
-- @jbrowning
+- @andre-hubstaff
+- @bjufre
+- @Sergiocastrovale
 
 ## Evaluation Criteria
 We'll be looking at the following criteria when assessing candidate submissions:
