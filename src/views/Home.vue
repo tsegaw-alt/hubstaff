@@ -98,17 +98,6 @@ export default {
     return {
       PricingPopOver:
         "Viewers don't count towards your team of 10 ( Premium ) plan",
-      fields: [
-        { key: 'checkbox', label: '' },
-        { key: 'name', label: 'Name' },
-        { key: 'role', label: 'Role' },
-        { key: 'projects', label: 'Projects' },
-        { key: 'payment', label: 'Payment' },
-        { key: 'limit', label: 'Limits' },
-        { key: 'edit', label: '' },
-        { key: 'time_tracking', label: 'Time tracking' },
-        { key: 'actions', label: 'Actions' }
-      ],
       timeTracking: ['Enabled', 'Disabled'],
       search: '',
       selectedRole: '',
