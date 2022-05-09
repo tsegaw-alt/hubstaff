@@ -1,1 +1,26 @@
 @import "base/typography.scss";
+
+html > body {
+    height: 100%;
+    width: 100%;
+    background-image: repeating-conic-gradient(#e7e8e8 0% 25%, #e7e8e8 0% 50%);
+    background-position: 0 0, 10px 10px;
+    background-size: 20px 20px;
+    background-color: #efeff4;
+}
+h4 {
+    color:black;
+    padding-left: 30px;
+
+  }
+
+  h6 {
+      font-size: 12px;
+  }
+  .my-popover-class {
+    background: #000000 !important;
+    p {
+        color: #ffffff!important;
+
+    }
+  }
